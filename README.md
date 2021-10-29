@@ -1,5 +1,5 @@
 # e-commerce-back-end-ORM
-
+A sample back end for an e-commerce website, contains get,put,post,and delete routes for categories, products, and tags.
 
 
 ### Prerequisites
@@ -43,7 +43,7 @@ node server.js
 
 This video tutorial picks up all of that, and the rest:
 
-* [VIDEO TUTORIAL]()
+* [VIDEO TUTORIAL](https://drive.google.com/file/d/162sbNlXoqmJogb0BhGN_gpkwo5ANvGH2/view?usp=sharing)
 
 
 ## Built With
